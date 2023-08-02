@@ -1,6 +1,6 @@
 # Analysis and Design of Algorithms
 
-![Algorithms](https://example.com/path/to/algorithm_image.jpg)
+![Algorithms](Images/Intro.png)
 
 Welcome to the analysis and design of algorithms! This guide aims to provide you with a comprehensive understanding of algorithms, their analysis, and the process of designing efficient algorithms for problem-solving.
 
@@ -17,7 +17,7 @@ Welcome to the analysis and design of algorithms! This guide aims to provide you
 An algorithm is a step-by-step procedure or a set of instructions used to solve a specific problem or accomplish a particular task. They are an integral part of computer science and are employed in various applications, such as search engines, sorting data, artificial intelligence, and more. Proper analysis and design of algorithms play a vital role in optimizing performance and resource utilization.
 
 ## What are Algorithms?
-![Algorithm](Images/Intro.png)
+![Algorithm](Images/Algorihtm.jpeg)
 
 An algorithm is like a recipe for a computer—a series of precise steps that, when executed in a specific order, lead to a desired outcome. Algorithms can be expressed in various ways, including natural language, pseudocode, flowcharts, or programming languages.
 
