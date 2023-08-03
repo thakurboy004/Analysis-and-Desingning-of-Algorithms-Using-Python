@@ -1,6 +1,6 @@
 # Array Overview
 
-![Array](https://example.com/path/to/array_image.jpg)
+
 
 Welcome to the array overview! In this guide, we will explore the concept of arrays, a fundamental data structure in computer science. Arrays provide a way to store multiple elements of the same type under a single variable name. They play a crucial role in various programming languages and are used extensively in algorithm design and problem-solving.
 
@@ -17,7 +17,6 @@ Welcome to the array overview! In this guide, we will explore the concept of arr
 An array is a collection of elements, such as integers, characters, or objects, arranged in a sequential manner. Each element in the array is identified by an index or a key, which represents its position in the array. Arrays are widely used due to their simplicity and efficiency in accessing and manipulating data.
 
 ## What is an Array?
-![Array](https://example.com/path/to/array_animation.gif)
 
 An array is like a row of storage boxes, where each box holds a specific item. Similarly, in a computer memory, an array consists of a contiguous block of memory locations, and each location stores an element. Elements in an array are accessed using their respective indices. The index starts from 0 for the first element, 1 for the second element, and so on.
 
